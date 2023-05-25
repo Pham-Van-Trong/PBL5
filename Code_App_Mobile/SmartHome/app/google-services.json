@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "115130438813",
+    "project_id": "nhathongminh-edd24",
+    "storage_bucket": "nhathongminh-edd24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115130438813:android:dde99cc49218faf0d8f074",
+        "android_client_info": {
+          "package_name": "com.example.nhathongminh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "115130438813-jef2vvh0beou0tlfg87u0vu0j44td327.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-GlHXp1OLCBgC0OhNIYM_Vf9E44sVztQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "115130438813-jef2vvh0beou0tlfg87u0vu0j44td327.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
